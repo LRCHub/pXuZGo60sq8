@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Bran-new Lovesong",
+  "base_artist": "the pillows",
+  "createdAt": "2026-03-11T10:10:56.185731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bran-new Lovesong",
+      "artist": "the pillows",
+      "has_synced": false,
+      "path": "select/01_Bran-new_Lovesong_the_pillows.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bran‐new lovesong",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/02_Bran‐new_lovesong_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bran‐new lovesong",
+      "artist": "pillows, the",
+      "has_synced": false,
+      "path": "select/03_Bran‐new_lovesong_pillows,_the.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bran‐new lovesong",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/04_Bran‐new_lovesong_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bran-New Lovesong",
+      "artist": "The Pillows",
+      "has_synced": true,
+      "path": "select/05_Bran-New_Lovesong_The_Pillows.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bran-new Lovesong",
+      "artist": "ザ・ピロウズ",
+      "has_synced": true,
+      "path": "select/06_Bran-new_Lovesong_ザ・ピロウズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bran-new lovesong",
+      "artist": "the pillows",
+      "has_synced": false,
+      "path": "select/pl_01_Bran-new_lovesong_the_pillows.txt"
+    }
+  ]
+}
